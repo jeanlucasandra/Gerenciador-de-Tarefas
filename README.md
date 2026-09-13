@@ -20,6 +20,7 @@ IDE utilizada: Intellij IDEA;
 1. Clone o repositório:
    \`\`\`bash
    git clone <URL-do-seu-repositorio>
+   
    cd <nome-da-pasta-do-projeto>
    \`\`\`
 
