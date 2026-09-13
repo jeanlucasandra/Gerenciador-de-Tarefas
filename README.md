@@ -18,25 +18,23 @@ IDE utilizada: Intellij IDEA;
 ### Rodando pelo terminal (cmd/bash)
 
 1. Clone o repositório:
-   \`\`\`bash
    git clone <URL-do-seu-repositorio>
    
    cd <nome-da-pasta-do-projeto>
-   \`\`\`
 
 2. Compile os arquivos `.java`:
-   \`\`\`bash
+
    javac Tarefa.java GerenciadorTarefas.java Main.java
-   \`\`\`
+
    Isso vai gerar arquivos `.class` (o bytecode que a JVM executa) na mesma pasta.
 
 3. Execute o programa:
-   \`\`\`bash
+4. 
    java Main
-   \`\`\`
+   
    > Obs: não coloque `.java` nem `.class` no final aqui, só o nome da classe que tem o `main`.
 
-4. Interaja com o menu que vai aparecer no terminal.
+5. Interaja com o menu que vai aparecer no terminal.
 
 ### Rodando pela IDE (IntelliJ, Eclipse, VS Code, etc.)
 
