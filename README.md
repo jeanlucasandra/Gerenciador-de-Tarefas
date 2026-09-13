@@ -18,9 +18,9 @@ IDE utilizada: Intellij IDEA;
 ### Rodando pelo terminal (cmd/bash)
 
 1. Clone o repositório:
-   git clone <URL-do-seu-repositorio>
+   git clone (URL do repositório)
    
-   cd <nome-da-pasta-do-projeto>
+   cd (nome-da-pasta-do-projeto)
 
 2. Compile os arquivos `.java`:
 
