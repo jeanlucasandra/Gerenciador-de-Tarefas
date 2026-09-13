@@ -6,7 +6,7 @@ Sistema de Gerenciamento de tarefas, como Cadastro de tarefas, Listagem de taref
 
 Envolve Array List, Switch...Case, métodos e classes, Getter e Setter, Private.
 
-IDE utilizada: Intellij IDEA;
+IDE utilizada: Intellij IDEA; 
 *Feito totalmente com auxílio de IA para fins de aprendizado (Claude).*
 
 ## Como executar
