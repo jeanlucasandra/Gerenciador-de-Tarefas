@@ -24,7 +24,7 @@ IDE utilizada: Intellij IDEA;
 
 2. Compile os arquivos `.java`:
 
-   javac Tarefa.java GerenciadorTarefas.java Main.java
+   javac Tarefas.java GerenciadorTarefas.java Main.java
 
    Isso vai gerar arquivos `.class` (o bytecode que a JVM executa) na mesma pasta.
 
