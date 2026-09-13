@@ -1,4 +1,3 @@
-package GerenciadordeTarefas;
 
 import java.util.Scanner;
 
