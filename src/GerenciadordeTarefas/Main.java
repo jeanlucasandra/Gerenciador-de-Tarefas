@@ -1,7 +1,5 @@
 package GerenciadordeTarefas;
 
-import GerenciadordeTarefas.metodos.GerenciadorTarefas;
-
 import java.util.Scanner;
 
 public class Main {

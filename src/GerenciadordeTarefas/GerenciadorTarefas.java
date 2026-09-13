@@ -1,4 +1,4 @@
-package GerenciadordeTarefas.metodos;
+package GerenciadordeTarefas;
 
 import java.util.ArrayList;
 import java.util.List;

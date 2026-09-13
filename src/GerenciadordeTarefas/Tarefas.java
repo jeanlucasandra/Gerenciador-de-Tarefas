@@ -1,4 +1,4 @@
-package GerenciadordeTarefas.metodos;
+package GerenciadordeTarefas;
 
 public class Tarefas {
     private String nome;
